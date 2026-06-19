@@ -23,3 +23,4 @@ Expected: 15
 - Do not edit `src/solution.js` unless the user explicitly asks.
 - Do not add dependencies, package files, or a test framework for this demo.
 - After editing `src/demo.js`, run `node src/demo.js` and report the output.
+- Follow the [Git commit and push policy](COMMIT.md) when creating commits.
