@@ -1,0 +1,13 @@
+My API request returns 401.
+
+API_KEY=[REDACTED]
+
+Code:
+
+fetch("https://api.example.com/users", {
+  headers: {
+    Authorization: "Bearer [REDACTED]"
+  }
+})
+
+Please fix it.
